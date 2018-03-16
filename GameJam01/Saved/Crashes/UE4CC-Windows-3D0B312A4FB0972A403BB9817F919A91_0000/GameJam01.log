@@ -1,0 +1,1034 @@
+﻿Log file open, 03/16/18 19:28:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameJam01
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(677402592) SRandInit(677402592).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.147844
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/EpicGames/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.16-18.28.44:812][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.16-18.28.44:812][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.16-18.28.44:820][  0]LogInit: Computer: WINDOWS-EUOFFC3
+[2018.03.16-18.28.44:820][  0]LogInit: User: Bendick
+[2018.03.16-18.28.44:820][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.16-18.28.44:820][  0]LogInit: High frequency timer resolution =3.914062 MHz
+[2018.03.16-18.28.44:820][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.16-18.28.44:820][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.16-18.28.44:820][  0]LogMemory: Process Physical Memory: 273.39 MB used, 273.39 MB peak
+[2018.03.16-18.28.44:820][  0]LogMemory: Process Virtual Memory: 269.91 MB used, 269.91 MB peak
+[2018.03.16-18.28.44:820][  0]LogMemory: Physical Memory: 7998.62 MB used,  8324.36 MB free, 16322.98 MB total
+[2018.03.16-18.28.44:820][  0]LogMemory: Virtual Memory: 677.71 MB used,  8324.36 MB free, 134217728.00 MB total
+[2018.03.16-18.28.44:897][  0]LogInit: Using OS detected language (en-US).
+[2018.03.16-18.28.44:897][  0]LogInit: Using OS detected locale (en-GB).
+[2018.03.16-18.28.44:900][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.16-18.28.45:177][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.16-18.28.45:416][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.16-18.28.45:449][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.03.16-18.28.45:449][  0]LogD3D11RHI:       8096/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.16-18.28.45:450][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.16-18.28.45:450][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.16-18.28.45:450][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.16-18.28.45:456][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.16-18.28.45:456][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.16-18.28.45:456][  0]LogWindows: EnumDisplayDevices:
+[2018.03.16-18.28.45:456][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.03.16-18.28.45:456][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.03.16-18.28.45:456][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.03.16-18.28.45:456][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.03.16-18.28.45:457][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.16-18.28.45:457][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.03.16-18.28.45:457][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.16-18.28.45:457][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.16-18.28.45:457][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.03.16-18.28.45:477][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.16-18.28.45:487][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.16-18.28.45:577][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Intermediate/Shaders/WorkingDirectory/632/).
+[2018.03.16-18.28.45:578][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bendick/AppData/Local/Temp/UnrealShaderWorkingDir/9B1AE332408E44A9EF493C8CBED9D71A/'.
+[2018.03.16-18.28.45:578][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.16-18.28.46:312][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.16-18.28.46:344][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.16-18.28.46:375][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.16-18.28.46:407][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.16-18.28.46:438][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.16-18.28.46:469][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.16-18.28.46:500][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.16-18.28.46:531][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.16-18.28.46:557][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.16-18.28.46:587][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.16-18.28.46:618][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.16-18.28.46:648][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.16-18.28.46:679][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.16-18.28.46:709][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.16-18.28.46:769][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.16-18.28.46:769][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.16-18.28.46:800][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.16-18.28.46:823][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.16-18.28.46:884][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.16-18.28.46:900][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.16-18.28.46:930][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.16-18.28.46:961][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.16-18.28.46:992][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.16-18.28.47:023][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.16-18.28.47:023][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.16-18.28.47:292][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.16-18.28.47:337][  0]LogDerivedDataCache: Loaded boot cache 0.04s 69MB C:/Users/Bendick/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.16-18.28.47:337][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bendick/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.16-18.28.47:337][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.16-18.28.47:337][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.16-18.28.47:337][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.16-18.28.47:337][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.16-18.28.47:348][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.16-18.28.47:360][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bendick/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.16-18.28.47:367][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.16-18.28.47:367][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.16-18.28.47:368][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.16-18.28.47:368][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.16-18.28.47:624][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.16-18.28.47:833][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.16-18.28.47:858][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.16-18.28.47:858][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.16-18.28.47:858][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.16-18.28.47:858][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.16-18.28.47:858][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.16-18.28.47:885][  0]LogNetVersion: GameJam01 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1769357321)
+[2018.03.16-18.28.47:998][  0]LogAssetRegistry: FAssetRegistry took 0.0240 seconds to start up
+[2018.03.16-18.28.48:355][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.045590 seconds
+[2018.03.16-18.28.48:359][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.16-18.28.48:359][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.03.16-18.28.48:359][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.16-18.28.48:385][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.16-18.28.50:218][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.16-18.28.50:252][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.16-18.28.50:703][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.16-18.28.50:972][  0]SourceControl: Source control is disabled
+[2018.03.16-18.28.50:972][  0]SourceControl: Source control is disabled
+[2018.03.16-18.28.51:008][  0]SourceControl: Source control is disabled
+[2018.03.16-18.28.51:043][  0]SourceControl: Source control is disabled
+[2018.03.16-18.28.51:571][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.16-18.28.51:747][  0]LogOcInput: OculusInput pre-init called
+[2018.03.16-18.28.51:930][  0]LogEngine: Initializing Engine...
+[2018.03.16-18.28.51:931][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.16-18.28.52:077][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.16-18.28.52:077][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.16-18.28.52:154][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.16-18.28.52:160][  0]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.28.52:173][  0]LogInit: FAudioDevice initialized.
+[2018.03.16-18.28.52:244][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/Bendick/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.16-18.28.52:255][  0]LogInit: Texture streaming: Enabled
+[2018.03.16-18.28.52:304][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.16-18.28.52:379][  0]LogInit: Transaction tracking system initialized
+[2018.03.16-18.28.52:563][  0]BlueprintLog: New page: Editor Load
+[2018.03.16-18.28.53:075][  0]LocalizationService: Localization service is disabled
+[2018.03.16-18.28.53:515][  0]LogConsoleResponse: Display: 
+[2018.03.16-18.28.53:624][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.16-18.28.53:624][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.16-18.28.53:624][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.16-18.28.54:365][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/' took 0.01s
+[2018.03.16-18.28.54:365][  0]SourceControl: Source control is disabled
+[2018.03.16-18.28.54:365][  0]Cmd: MAP LOAD FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Maps/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.16-18.28.54:365][  0]LightingResults: New page: Lighting Build
+[2018.03.16-18.28.54:390][  0]MapCheck: New page: Map Check
+[2018.03.16-18.28.54:390][  0]LightingResults: New page: Lighting Build
+[2018.03.16-18.28.54:551][  0]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.28.54:556][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.16-18.28.54:563][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.16-18.28.54:602][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38.615ms to complete.
+[2018.03.16-18.28.54:602][  0]LogFileHelpers: Loading map 'Level01' took 0.236
+[2018.03.16-18.28.54:722][  0]LogCollectionManager: Loaded 0 collections in 0.000603 seconds
+[2018.03.16-18.28.54:786][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Collections/' took 0.01s
+[2018.03.16-18.28.54:786][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Developers/Bendick/Collections/' took 0.01s
+[2018.03.16-18.28.54:786][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Collections/' took 0.01s
+[2018.03.16-18.28.54:786][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.16-18.28.54:792][  0]LogContentBrowser: Native class hierarchy populated in 0.0057 seconds. Added 2363 classes and 519 folders.
+[2018.03.16-18.28.54:827][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.16-18.28.54:860][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.16-18.28.54:886][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.16-18.28.54:927][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.16-18.28.54:928][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.16-18.28.54:933][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.16-18.28.54:999][  0]LogRenderer: Reallocating scene render targets to support 1276x660 Format 10 NumSamples 1 (Frame:1).
+[2018.03.16-18.28.55:116][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.16-18.28.55:116][  0]LogLoad: (Engine Initialization) Total time: 12.06 seconds
+[2018.03.16-18.28.55:116][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.16-18.28.55:116][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.16-18.28.55:116][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.16-18.28.55:466][  0]LogAssetRegistry: Asset discovery search completed in 7.4895 seconds
+[2018.03.16-18.28.55:468][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.16-18.28.55:468][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2018.03.16-18.28.55:468][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.16-18.28.55:513][  0]LogRenderer: Reallocating scene render targets to support 1276x676 Format 10 NumSamples 1 (Frame:2).
+[2018.03.16-18.28.55:513][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.16-18.28.57:528][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.16-18.29.08:556][325]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.16-18.29.42:551][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.16-18.29.47:824][ 66]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.16-18.29.56:926][  8]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2018.03.16-18.29.57:337][  8]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.16-18.29.57:438][  8]LogRenderer: Reallocating scene render targets to support 1276x704 Format 10 NumSamples 1 (Frame:1).
+[2018.03.16-18.29.58:740][158]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.16-18.30.06:044][981]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.03.16-18.30.22:087][798]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.30.30:774][704]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.16-18.30.31:972][842]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.03.16-18.30.49:862][838]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.30.50:844][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.30.50:913][863]LogSavePackage: Save=64.23ms
+[2018.03.16-18.30.50:913][863]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnD5D38A47499053927586D0B9335DD6CA.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.30.50:914][863]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.32.04:683][970]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.32.06:938][185]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2018.03.16-18.32.14:357][988]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.16-18.32.19:307][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.16-18.32.19:347][577]LogSavePackage: Save=23.68ms
+[2018.03.16-18.32.19:347][577]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Level014579E3F04A44D50F00F32FB5E7F91755.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Maps/Level01.umap'
+[2018.03.16-18.32.19:349][577]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Maps/Level01.umap
+[2018.03.16-18.32.20:950][765]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.16-18.32.22:415][927]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.32.22:445][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.32.22:446][927]PIE: New page: PIE session: Level01 (16 Mar 2018 20:32:22)
+[2018.03.16-18.32.22:446][927]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.32.22:449][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003698s)
+[2018.03.16-18.32.22:450][927]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.32.22:450][927]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2018.03.16-18.32.22:450][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004394s)
+[2018.03.16-18.32.22:463][927]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.32.22:474][927]LogInit: FAudioDevice initialized.
+[2018.03.16-18.32.22:512][927]LogLoad: Game class is 'GameMode'
+[2018.03.16-18.32.22:514][927]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.32.22
+[2018.03.16-18.32.23:045][927]LogWorld: Bringing up level for play took: 0.531991
+[2018.03.16-18.32.23:070][927]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.03.16-18.32.23:071][927]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.16-18.32.23:071][927]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.16-18.32.23:071][927]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.16-18.32.23:071][927]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.16-18.32.23:071][927]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 1.066
+[2018.03.16-18.32.26:468][319]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.16-18.32.27:210][405]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.03.16-18.32.28:200][523]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.32.28:209][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.32.28:209][523]PIE: New page: PIE session: Level01 (16 Mar 2018 20:32:28)
+[2018.03.16-18.32.28:209][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.32.28:212][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003263s)
+[2018.03.16-18.32.28:213][523]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.32.28:213][523]LogPlayLevel: PIE: World Init took: (0.000430s)
+[2018.03.16-18.32.28:213][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.003871s)
+[2018.03.16-18.32.28:225][523]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.32.28:235][523]LogInit: FAudioDevice initialized.
+[2018.03.16-18.32.28:323][523]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.32.28:323][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.32.28
+[2018.03.16-18.32.28:324][523]LogWorld: Bringing up level for play took: 0.000846
+[2018.03.16-18.32.28:325][523]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 0.32
+[2018.03.16-18.32.56:072][777]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.33.32:160][355]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.33.32:175][355]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.16-18.33.32:178][355]LogPlayLevel: [PlayLevel] Compiling Possessable_pawn before play...
+[2018.03.16-18.33.32:426][355]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2018.03.16-18.33.32:426][355]PIE: New page: PIE session: Level01 (16 Mar 2018 20:33:32)
+[2018.03.16-18.33.32:426][355]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.33.32:430][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003597s)
+[2018.03.16-18.33.32:430][355]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.33.32:430][355]LogPlayLevel: PIE: World Init took: (0.000445s)
+[2018.03.16-18.33.32:430][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004208s)
+[2018.03.16-18.33.32:443][355]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.33.32:453][355]LogInit: FAudioDevice initialized.
+[2018.03.16-18.33.32:484][355]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.33.32:485][355]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.33.32
+[2018.03.16-18.33.32:485][355]LogWorld: Bringing up level for play took: 0.000918
+[2018.03.16-18.33.32:487][355]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 0.481
+[2018.03.16-18.33.38:122][948]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.33.40:848][229]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.16-18.33.43:355][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.33.43:383][520]LogSavePackage: Save=21.03ms
+[2018.03.16-18.33.43:383][520]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnFDB8C0614DFE3ACD6F4E3ABAA7F6F614.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.33.43:385][520]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.34.15:123][893]LogBlueprint: Warning: [Possessable_pawn] 'BaseTurnRate' variable not found. Base class was probably changed. /Game/Possessable_pawn.Possessable_pawn
+[2018.03.16-18.34.15:123][893]LogBlueprint: Warning: [Possessable_pawn] 'BaseLookUpRate' variable not found. Base class was probably changed. /Game/Possessable_pawn.Possessable_pawn
+[2018.03.16-18.34.39:008][558]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.34.39:025][558]LogBlueprint: Error: [Compiler Possessable_pawn] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2018.03.16-18.34.39:025][558]LogBlueprint: Error: [Compiler Possessable_pawn] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2018.03.16-18.34.39:025][558]LogBlueprint: Error: [Compiler Possessable_pawn] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2018.03.16-18.34.39:025][558]LogBlueprint: Error: [Compiler Possessable_pawn] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2018.03.16-18.34.39:625][558]LogBlueprint: Warning: [Compiler Possessable_pawn] [0356.57] Compile of Possessable_pawn failed. 4 Fatal Issue(s) 0 Warning(s) [in 617 ms] (/Game/Possessable_pawn.Possessable_pawn)
+[2018.03.16-18.34.51:408][860]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'ACharacter::Jump' [Element not found.]
+[2018.03.16-18.34.52:753][ 18]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.34.55:114][279]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.34.55:133][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.34.55:133][279]PIE: New page: PIE session: Level01 (16 Mar 2018 20:34:55)
+[2018.03.16-18.34.55:133][279]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.34.55:136][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003308s)
+[2018.03.16-18.34.55:137][279]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.34.55:137][279]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2018.03.16-18.34.55:137][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004088s)
+[2018.03.16-18.34.55:150][279]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.34.55:162][279]LogInit: FAudioDevice initialized.
+[2018.03.16-18.34.55:198][279]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.34.55:199][279]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.34.55
+[2018.03.16-18.34.55:199][279]LogWorld: Bringing up level for play took: 0.001004
+[2018.03.16-18.34.55:201][279]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.805
+[2018.03.16-18.35.01:392][993]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.35.01:403][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.35.01:403][993]PIE: New page: PIE session: Level01 (16 Mar 2018 20:35:01)
+[2018.03.16-18.35.01:403][993]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.35.01:406][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003122s)
+[2018.03.16-18.35.01:407][993]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.35.01:407][993]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2018.03.16-18.35.01:407][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.003782s)
+[2018.03.16-18.35.01:420][993]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.35.01:431][993]LogInit: FAudioDevice initialized.
+[2018.03.16-18.35.01:457][993]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.35.01:458][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.35.01
+[2018.03.16-18.35.01:458][993]LogWorld: Bringing up level for play took: 0.000830
+[2018.03.16-18.35.01:459][993]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.546
+[2018.03.16-18.35.38:333][313]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APawn::AddMovementInput' [Element not found.]
+[2018.03.16-18.35.41:226][655]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.35.42:182][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.35.42:228][733]LogSavePackage: Save=44.93ms
+[2018.03.16-18.35.42:228][733]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn44A4BF2A4D2FF849AF96588DCB13DEB9.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.35.42:230][733]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.35.42:887][811]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.35.42:906][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.35.42:906][811]PIE: New page: PIE session: Level01 (16 Mar 2018 20:35:42)
+[2018.03.16-18.35.42:906][811]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.35.42:910][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003335s)
+[2018.03.16-18.35.42:910][811]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.35.42:910][811]LogPlayLevel: PIE: World Init took: (0.000455s)
+[2018.03.16-18.35.42:910][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.003968s)
+[2018.03.16-18.35.42:924][811]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.35.42:934][811]LogInit: FAudioDevice initialized.
+[2018.03.16-18.35.42:965][811]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.35.42:966][811]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.35.42
+[2018.03.16-18.35.43:480][811]LogWorld: Bringing up level for play took: 0.514969
+[2018.03.16-18.35.43:482][811]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 1.476
+[2018.03.16-18.36.32:997][493]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.36.33:831][555]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.36.33:849][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.36.33:849][555]PIE: New page: PIE session: Level01 (16 Mar 2018 20:36:33)
+[2018.03.16-18.36.33:849][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.36.33:853][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003462s)
+[2018.03.16-18.36.33:853][555]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.36.33:853][555]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2018.03.16-18.36.33:853][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004069s)
+[2018.03.16-18.36.33:867][555]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.36.33:877][555]LogInit: FAudioDevice initialized.
+[2018.03.16-18.36.33:912][555]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.36.33:913][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.36.33
+[2018.03.16-18.36.33:913][555]LogWorld: Bringing up level for play took: 0.001017
+[2018.03.16-18.36.33:915][555]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.091
+[2018.03.16-18.36.47:718][155]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APawn::AddControllerYawInput' [Element not found.]
+[2018.03.16-18.37.16:006][498]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.37.18:436][749]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.37.18:455][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.37.18:455][749]PIE: New page: PIE session: Level01 (16 Mar 2018 20:37:18)
+[2018.03.16-18.37.18:455][749]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.37.18:458][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003797s)
+[2018.03.16-18.37.18:459][749]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.37.18:459][749]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2018.03.16-18.37.18:459][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004472s)
+[2018.03.16-18.37.18:473][749]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.37.18:483][749]LogInit: FAudioDevice initialized.
+[2018.03.16-18.37.18:512][749]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.37.18:513][749]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.37.18
+[2018.03.16-18.37.18:513][749]LogWorld: Bringing up level for play took: 0.000876
+[2018.03.16-18.37.18:515][749]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 0.509
+[2018.03.16-18.38.22:438][104]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.38.22:911][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.38.22:954][123]LogSavePackage: Save=41.89ms
+[2018.03.16-18.38.22:954][123]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnF0FA30E64507C8F6FD4A86AB160086F4.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.38.22:956][123]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.38.23:491][185]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.38.23:510][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.38.23:510][185]PIE: New page: PIE session: Level01 (16 Mar 2018 20:38:23)
+[2018.03.16-18.38.23:510][185]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.38.23:515][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004753s)
+[2018.03.16-18.38.23:515][185]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.38.23:515][185]LogPlayLevel: PIE: World Init took: (0.000459s)
+[2018.03.16-18.38.23:515][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.005402s)
+[2018.03.16-18.38.23:528][185]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.38.23:539][185]LogInit: FAudioDevice initialized.
+[2018.03.16-18.38.23:572][185]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.38.23:573][185]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.38.23
+[2018.03.16-18.38.23:573][185]LogWorld: Bringing up level for play took: 0.001020
+[2018.03.16-18.38.23:574][185]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.431
+[2018.03.16-18.38.39:350][ 30]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::MakeRotator' [Element not found.]
+[2018.03.16-18.38.41:340][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.38.41:377][248]LogSavePackage: Save=34.53ms
+[2018.03.16-18.38.41:377][248]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnF06C245546FF4CD04D4EF2848FC3FDAC.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.38.41:378][248]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.38.42:331][357]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.38.42:342][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.38.42:342][357]PIE: New page: PIE session: Level01 (16 Mar 2018 20:38:42)
+[2018.03.16-18.38.42:342][357]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.38.42:347][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004502s)
+[2018.03.16-18.38.42:347][357]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.38.42:347][357]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2018.03.16-18.38.42:348][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.005343s)
+[2018.03.16-18.38.42:362][357]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.38.42:372][357]LogInit: FAudioDevice initialized.
+[2018.03.16-18.38.42:402][357]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.38.42:403][357]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.38.42
+[2018.03.16-18.38.42:403][357]LogWorld: Bringing up level for play took: 0.000978
+[2018.03.16-18.38.42:404][357]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 0.399
+[2018.03.16-18.38.56:284][955]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.38.56:296][955]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.16-18.38.56:301][955]LogPlayLevel: [PlayLevel] Compiling Possessable_pawn before play...
+[2018.03.16-18.38.56:566][955]LogPlayLevel: PlayLevel: Blueprint regeneration took 270 ms (1 blueprints)
+[2018.03.16-18.38.56:566][955]PIE: New page: PIE session: Level01 (16 Mar 2018 20:38:56)
+[2018.03.16-18.38.56:566][955]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.38.56:569][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003495s)
+[2018.03.16-18.38.56:570][955]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.38.56:570][955]LogPlayLevel: PIE: World Init took: (0.000456s)
+[2018.03.16-18.38.56:570][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004134s)
+[2018.03.16-18.38.56:583][955]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.38.56:593][955]LogInit: FAudioDevice initialized.
+[2018.03.16-18.38.56:621][955]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.38.56:622][955]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.38.56
+[2018.03.16-18.38.56:622][955]LogWorld: Bringing up level for play took: 0.000851
+[2018.03.16-18.38.56:624][955]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 0.618
+[2018.03.16-18.41.27:232][655]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.41.27:252][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.41.27:252][655]PIE: New page: PIE session: Level01 (16 Mar 2018 20:41:27)
+[2018.03.16-18.41.27:252][655]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.41.27:256][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003844s)
+[2018.03.16-18.41.27:256][655]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.41.27:256][655]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2018.03.16-18.41.27:256][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004546s)
+[2018.03.16-18.41.27:270][655]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.41.27:281][655]LogInit: FAudioDevice initialized.
+[2018.03.16-18.41.27:314][655]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.41.27:316][655]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.41.27
+[2018.03.16-18.41.27:316][655]LogWorld: Bringing up level for play took: 0.001091
+[2018.03.16-18.41.27:317][655]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.688
+[2018.03.16-18.41.46:584][751]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APawn::AddControllerYawInput' [Element not found.]
+[2018.03.16-18.41.47:127][810]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APawn::AddControllerYawInput' [Element not found.]
+[2018.03.16-18.42.05:562][953]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.16-18.42.21:815][840]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.42.22:669][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.42.22:716][898]LogSavePackage: Save=40.15ms
+[2018.03.16-18.42.22:716][898]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnC3CDDC214CFA95A3D87B0DAE85DB8A26.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.42.22:719][898]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.42.23:614][  4]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.42.23:632][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.42.23:632][  4]PIE: New page: PIE session: Level01 (16 Mar 2018 20:42:23)
+[2018.03.16-18.42.23:632][  4]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.42.23:636][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003473s)
+[2018.03.16-18.42.23:636][  4]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.42.23:636][  4]LogPlayLevel: PIE: World Init took: (0.000433s)
+[2018.03.16-18.42.23:636][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004078s)
+[2018.03.16-18.42.23:650][  4]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.42.23:660][  4]LogInit: FAudioDevice initialized.
+[2018.03.16-18.42.23:693][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.42.23:694][  4]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.42.23
+[2018.03.16-18.42.23:694][  4]LogWorld: Bringing up level for play took: 0.001002
+[2018.03.16-18.42.23:696][  4]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.31
+[2018.03.16-18.45.49:369][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Autosaves/Game/Maps/Level01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.16-18.45.49:402][271]LogSavePackage: Save=26.27ms
+[2018.03.16-18.45.49:402][271]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Level01_Auto1BDAB6EEF408843795AE9CE81E64844B3.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Autosaves/Game/Maps/Level01_Auto1.umap'
+[2018.03.16-18.45.49:403][271]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Autosaves/Game/Maps/Level01_Auto1.umap
+[2018.03.16-18.45.49:404][271]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level01' took 0.051
+[2018.03.16-18.45.49:404][271]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2018.03.16-18.45.49:405][271]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.03.16-18.45.49:414][271]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.03.16-18.45.49:414][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.03.16-18.45.49:453][271]LogSavePackage: Save=33.80ms
+[2018.03.16-18.45.49:453][271]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/ThirdPersonCharacter_Auto1F27EDF4C4062D5994CDDCB93F575999C.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.03.16-18.45.49:454][271]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.03.16-18.45.49:454][271]LogFileHelpers: Auto-saving content packages took 0.049
+[2018.03.16-18.47.12:690][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.47.12:731][747]LogSavePackage: Save=39.74ms
+[2018.03.16-18.47.12:731][747]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnFBB5F2A240BCDA9DAD65FA9C1ACC0668.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.47.12:738][747]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.47.14:135][912]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.47.15:040][986]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.47.15:058][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.47.15:059][986]PIE: New page: PIE session: Level01 (16 Mar 2018 20:47:15)
+[2018.03.16-18.47.15:059][986]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.47.15:062][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003710s)
+[2018.03.16-18.47.15:063][986]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.47.15:063][986]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2018.03.16-18.47.15:063][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004443s)
+[2018.03.16-18.47.15:077][986]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.47.15:086][986]LogInit: FAudioDevice initialized.
+[2018.03.16-18.47.15:119][986]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.47.15:120][986]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.47.15
+[2018.03.16-18.47.15:120][986]LogWorld: Bringing up level for play took: 0.000889
+[2018.03.16-18.47.15:121][986]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.884
+[2018.03.16-18.48.32:298][899]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.48.34:402][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.48.34:449][104]LogSavePackage: Save=41.54ms
+[2018.03.16-18.48.34:449][104]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnF5464B4C4D164AC27C54A0BCA3834D4D.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.48.34:451][104]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.48.37:182][419]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.48.37:200][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.48.37:200][419]PIE: New page: PIE session: Level01 (16 Mar 2018 20:48:37)
+[2018.03.16-18.48.37:200][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.48.37:204][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003597s)
+[2018.03.16-18.48.37:204][419]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.48.37:204][419]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2018.03.16-18.48.37:204][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004266s)
+[2018.03.16-18.48.37:218][419]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.48.37:229][419]LogInit: FAudioDevice initialized.
+[2018.03.16-18.48.37:262][419]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.48.37:264][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.48.37
+[2018.03.16-18.48.37:264][419]LogWorld: Bringing up level for play took: 0.001075
+[2018.03.16-18.48.37:265][419]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.74
+[2018.03.16-18.48.43:256][114]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.48.43:722][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.48.43:765][132]LogSavePackage: Save=40.44ms
+[2018.03.16-18.48.43:765][132]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnBA310C3346CF6FCD6C3BBD83C3683D8B.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.48.43:767][132]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.48.44:511][219]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.48.44:529][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.48.44:529][219]PIE: New page: PIE session: Level01 (16 Mar 2018 20:48:44)
+[2018.03.16-18.48.44:529][219]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.48.44:532][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003445s)
+[2018.03.16-18.48.44:533][219]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.48.44:533][219]LogPlayLevel: PIE: World Init took: (0.000472s)
+[2018.03.16-18.48.44:533][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004122s)
+[2018.03.16-18.48.44:546][219]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.48.44:556][219]LogInit: FAudioDevice initialized.
+[2018.03.16-18.48.44:586][219]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.48.44:587][219]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.48.44
+[2018.03.16-18.48.44:588][219]LogWorld: Bringing up level for play took: 0.001001
+[2018.03.16-18.48.44:589][219]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 0.584
+[2018.03.16-18.48.54:418][366]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.48.57:353][690]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.16-18.48.57:675][722]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.48.58:257][783]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.16-18.48.58:535][810]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.48.58:921][849]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.16-18.48.59:251][882]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.48.59:612][918]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.16-18.48.59:915][948]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.49.00:261][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.16-18.49.00:558][ 11]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.49.00:898][ 45]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.16-18.49.01:187][ 73]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.49.01:521][106]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.16-18.49.01:821][135]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.49.18:973][ 20]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.49.31:055][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.49.31:102][337]LogSavePackage: Save=45.78ms
+[2018.03.16-18.49.31:103][337]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn57D12D204792223934A84B8B159239E8.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.49.31:104][337]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.49.31:727][405]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.49.31:744][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.49.31:744][405]PIE: New page: PIE session: Level01 (16 Mar 2018 20:49:31)
+[2018.03.16-18.49.31:744][405]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.49.31:748][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003636s)
+[2018.03.16-18.49.31:748][405]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.49.31:748][405]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2018.03.16-18.49.31:749][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004413s)
+[2018.03.16-18.49.31:790][405]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.49.31:800][405]LogInit: FAudioDevice initialized.
+[2018.03.16-18.49.31:830][405]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.49.31:831][405]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.49.31
+[2018.03.16-18.49.31:831][405]LogWorld: Bringing up level for play took: 0.001037
+[2018.03.16-18.49.31:833][405]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.173
+[2018.03.16-18.49.37:725][ 90]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.49.38:559][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.49.38:601][151]LogSavePackage: Save=40.26ms
+[2018.03.16-18.49.38:601][151]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnDB5A5C24493FA9D33DA8E9930DB770D0.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.49.38:603][151]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.49.39:273][228]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.49.39:291][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.49.39:291][228]PIE: New page: PIE session: Level01 (16 Mar 2018 20:49:39)
+[2018.03.16-18.49.39:291][228]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.49.39:295][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003475s)
+[2018.03.16-18.49.39:295][228]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.49.39:295][228]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2018.03.16-18.49.39:295][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004119s)
+[2018.03.16-18.49.39:308][228]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.49.39:318][228]LogInit: FAudioDevice initialized.
+[2018.03.16-18.49.39:351][228]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.49.39:352][228]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.49.39
+[2018.03.16-18.49.39:352][228]LogWorld: Bringing up level for play took: 0.001002
+[2018.03.16-18.49.39:353][228]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.652
+[2018.03.16-18.49.56:988][755]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GameJam01
+[2018.03.16-18.49.56:988][755]LogTemp: CWD: D:\EpicGames\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.16-18.49.56:988][755]LogTemp: Initial Dir: D:\EpicGames\UE_4.18
+[2018.03.16-18.49.56:988][755]LogTemp: Env CWD: D:\EpicGames\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.16-18.49.56:988][755]LogTemp: BranchPath = WINDOWS-EUOFFC3/D/EpicGames/UE_4.18/Engine/Binaries --- GameBranchPath = WINDOWS-EUOFFC3/D/EpicGames/UE_4.18/Engine/Binaries
+[2018.03.16-18.49.56:988][755]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.16-18.49.57:037][756]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Bendick\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.16-18.50.58:628][590]LogSlate: Took 0.008765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.16-18.51.10:649][950]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.16-18.52.11:256][ 32]LogSavePackage: Save=40.14ms
+[2018.03.16-18.52.11:256][ 32]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/ThirdPersonCharacter681ADF5C4EEA8FC6810592BF83BDB210.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.16-18.52.11:259][ 32]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.16-18.52.20:308][105]LogSavePackage: Save=38.68ms
+[2018.03.16-18.52.20:308][105]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/ThirdPersonCharacter146AA06A44798F5F0D3806B59BC0D67E.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.16-18.52.20:310][105]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.16-18.52.21:213][200]LogSavePackage: Save=34.56ms
+[2018.03.16-18.52.21:213][200]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/ThirdPersonCharacterE79CEB8244CD1DDC4AF474BB228A64D1.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.16-18.52.21:214][200]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.16-18.52.21:895][281]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.16-18.52.52:291][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.52.52:336][755]LogSavePackage: Save=43.62ms
+[2018.03.16-18.52.52:336][755]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn03B0D3D640AD9BAFA183659F4C83E78B.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.52.52:339][755]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.52.52:643][791]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.52.53:293][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.52.53:340][831]LogSavePackage: Save=45.09ms
+[2018.03.16-18.52.53:340][831]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn110CDA194AA8D7560ECB809B59C04692.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.52.53:341][831]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.52.53:816][887]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.52.53:835][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.52.53:835][887]PIE: New page: PIE session: Level01 (16 Mar 2018 20:52:53)
+[2018.03.16-18.52.53:835][887]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.52.53:839][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003717s)
+[2018.03.16-18.52.53:839][887]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.52.53:839][887]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2018.03.16-18.52.53:839][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004461s)
+[2018.03.16-18.52.53:853][887]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.52.53:864][887]LogInit: FAudioDevice initialized.
+[2018.03.16-18.52.53:895][887]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.52.53:896][887]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.52.53
+[2018.03.16-18.52.53:896][887]LogWorld: Bringing up level for play took: 0.000956
+[2018.03.16-18.52.53:898][887]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.108
+[2018.03.16-18.52.56:762][155]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.52.57:777][277]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.53.36:458][846]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.53.37:193][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.53.37:242][894]LogSavePackage: Save=44.53ms
+[2018.03.16-18.53.37:242][894]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnD51AE10D4C5A65291BB4DFB8E6F51A19.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.53.37:244][894]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.53.41:250][282]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.16-18.53.41:277][282]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GameJam01
+[2018.03.16-18.53.41:277][282]LogTemp: CWD: D:\EpicGames\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.16-18.53.41:277][282]LogTemp: Initial Dir: D:\EpicGames\UE_4.18
+[2018.03.16-18.53.41:277][282]LogTemp: Env CWD: D:\EpicGames\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.16-18.53.41:279][282]LogTemp: BranchPath = WINDOWS-EUOFFC3/D/EpicGames/UE_4.18/Engine/Binaries --- GameBranchPath = WINDOWS-EUOFFC3/D/EpicGames/UE_4.18/Engine/Binaries
+[2018.03.16-18.53.41:303][283]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Bendick\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.16-18.54.07:150][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.54.07:191][136]LogSavePackage: Save=39.29ms
+[2018.03.16-18.54.07:191][136]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn8F78A55A408907E9A64427AC48AB5516.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.54.07:193][136]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.54.43:758][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.54.43:808][388]LogSavePackage: Save=48.39ms
+[2018.03.16-18.54.43:808][388]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnE351AE4E4F189664F3167982B180318A.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.54.43:810][388]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.54.44:009][411]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.54.44:467][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.54.44:519][427]LogSavePackage: Save=49.05ms
+[2018.03.16-18.54.44:519][427]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnF044D2D24B5E247D7E1A819CB349B3CC.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.54.44:520][427]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.54.45:040][486]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.54.45:061][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.54.45:062][486]PIE: New page: PIE session: Level01 (16 Mar 2018 20:54:45)
+[2018.03.16-18.54.45:062][486]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.54.45:066][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004005s)
+[2018.03.16-18.54.45:066][486]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.54.45:066][486]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2018.03.16-18.54.45:066][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004765s)
+[2018.03.16-18.54.45:081][486]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.54.45:091][486]LogInit: FAudioDevice initialized.
+[2018.03.16-18.54.45:125][486]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.54.45:126][486]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.54.45
+[2018.03.16-18.54.45:126][486]LogWorld: Bringing up level for play took: 0.001000
+[2018.03.16-18.54.45:128][486]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.878
+[2018.03.16-18.54.46:632][660]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.54.47:082][714]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	Possessable_pawn_C /Game/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.Possessable_pawn_334
+	Function /Game/Possessable_pawn.Possessable_pawn_C:ExecuteUbergraph_Possessable_pawn:03AF
+[2018.03.16-18.54.47:082][714]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerCharacter from function: 'ExecuteUbergraph_Possessable_pawn' from node: Set Possessable_actor in graph: EventGraph in object: Possessable_pawn with description: Accessed None trying to read property PlayerCharacter
+[2018.03.16-18.54.47:082][714]LogScript: Warning: Accessed None attempting to assign variable on an object
+	Possessable_pawn_C /Game/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.Possessable_pawn_334
+	Function /Game/Possessable_pawn.Possessable_pawn_C:ExecuteUbergraph_Possessable_pawn:03C4
+[2018.03.16-18.54.47:082][714]PIE: Error: Blueprint Runtime Error: Accessed None attempting to assign variable on an object from function: 'ExecuteUbergraph_Possessable_pawn' from node: Set Possessable_actor in graph: EventGraph in object: Possessable_pawn with description: Accessed None attempting to assign variable on an object
+[2018.03.16-18.54.59:266][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.54.59:317][ 66]LogSavePackage: Save=49.20ms
+[2018.03.16-18.54.59:317][ 66]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn722E9FEC47836FA471B98F9EFA0B3F23.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.54.59:319][ 66]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.55.00:960][261]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.55.01:574][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.55.01:625][296]LogSavePackage: Save=48.81ms
+[2018.03.16-18.55.01:625][296]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawnC93011914C92AC2CE4D12DA31286466F.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.55.01:626][296]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.55.17:052][ 11]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.55.17:426][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.55.17:479][ 17]LogSavePackage: Save=51.24ms
+[2018.03.16-18.55.17:479][ 17]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn61C1617847EF040734B2D8A164C78565.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.55.17:481][ 17]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.55.18:408][125]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.55.18:428][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.55.18:428][125]PIE: New page: PIE session: Level01 (16 Mar 2018 20:55:18)
+[2018.03.16-18.55.18:428][125]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.55.18:432][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003369s)
+[2018.03.16-18.55.18:432][125]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.55.18:432][125]LogPlayLevel: PIE: World Init took: (0.000446s)
+[2018.03.16-18.55.18:432][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004000s)
+[2018.03.16-18.55.18:446][125]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.55.18:455][125]LogInit: FAudioDevice initialized.
+[2018.03.16-18.55.18:490][125]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.55.18:491][125]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.55.18
+[2018.03.16-18.55.18:491][125]LogWorld: Bringing up level for play took: 0.001004
+[2018.03.16-18.55.18:492][125]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 0.487
+[2018.03.16-18.55.20:598][371]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.55.22:766][631]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	Possessable_pawn_C /Game/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.Possessable_pawn_334
+	Function /Game/Possessable_pawn.Possessable_pawn_C:ExecuteUbergraph_Possessable_pawn:037B
+[2018.03.16-18.55.22:766][631]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerCharacter from function: 'ExecuteUbergraph_Possessable_pawn' from node: Set Possessable_actor in graph: EventGraph in object: Possessable_pawn with description: Accessed None trying to read property PlayerCharacter
+[2018.03.16-18.55.22:766][631]LogScript: Warning: Accessed None attempting to assign variable on an object
+	Possessable_pawn_C /Game/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.Possessable_pawn_334
+	Function /Game/Possessable_pawn.Possessable_pawn_C:ExecuteUbergraph_Possessable_pawn:0390
+[2018.03.16-18.55.22:766][631]PIE: Error: Blueprint Runtime Error: Accessed None attempting to assign variable on an object from function: 'ExecuteUbergraph_Possessable_pawn' from node: Set Possessable_actor in graph: EventGraph in object: Possessable_pawn with description: Accessed None attempting to assign variable on an object
+[2018.03.16-18.55.29:127][362]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.55.50:123][784]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.16-18.55.59:097][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.55.59:149][784]LogSavePackage: Save=50.62ms
+[2018.03.16-18.55.59:149][784]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn25505DF249DA0C6F0B48EC8244956794.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.55.59:151][784]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.55.59:665][845]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.56.00:342][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.56.00:393][886]LogSavePackage: Save=50.23ms
+[2018.03.16-18.56.00:393][886]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn46D71DA046CE5858FC8C2AA90ECC7FA2.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.56.00:394][886]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.56.00:974][953]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.56.00:994][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.56.00:994][953]PIE: New page: PIE session: Level01 (16 Mar 2018 20:56:00)
+[2018.03.16-18.56.00:994][953]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.56.00:998][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003369s)
+[2018.03.16-18.56.00:998][953]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.56.00:998][953]LogPlayLevel: PIE: World Init took: (0.000457s)
+[2018.03.16-18.56.00:998][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004003s)
+[2018.03.16-18.56.01:013][953]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.56.01:023][953]LogInit: FAudioDevice initialized.
+[2018.03.16-18.56.01:056][953]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.56.01:057][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.56.01
+[2018.03.16-18.56.01:057][953]LogWorld: Bringing up level for play took: 0.001129
+[2018.03.16-18.56.01:059][953]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 1.053
+[2018.03.16-18.56.02:501][118]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.56.06:801][634]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.56.11:161][157]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.56.15:937][730]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.56.19:362][141]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.56.23:354][620]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.56.28:364][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.16-18.56.28:364][206]Can't find target actor or component.
+[2018.03.16-18.56.29:641][273]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.16-18.56.30:968][421]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.03.16-18.56.30:979][421]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2018.03.16-18.56.33:166][669]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.56.33:178][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.56.33:178][669]PIE: New page: PIE session: Level01 (16 Mar 2018 20:56:33)
+[2018.03.16-18.56.33:178][669]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.56.33:181][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003352s)
+[2018.03.16-18.56.33:182][669]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.56.33:182][669]LogPlayLevel: PIE: World Init took: (0.000436s)
+[2018.03.16-18.56.33:182][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.003971s)
+[2018.03.16-18.56.33:197][669]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.56.33:206][669]LogInit: FAudioDevice initialized.
+[2018.03.16-18.56.33:237][669]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.56.33:237][669]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.56.33
+[2018.03.16-18.56.33:238][669]LogWorld: Bringing up level for play took: 0.000576
+[2018.03.16-18.56.33:239][669]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.767
+[2018.03.16-18.56.34:411][807]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.56.40:862][581]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.56.44:847][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.56.54:532][221]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.57.00:058][884]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.57.04:858][460]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.57.15:216][656]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.57.17:048][863]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.57.17:061][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.57.17:061][863]PIE: New page: PIE session: Level01 (16 Mar 2018 20:57:17)
+[2018.03.16-18.57.17:061][863]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.57.17:065][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003950s)
+[2018.03.16-18.57.17:065][863]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.57.17:065][863]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2018.03.16-18.57.17:065][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004777s)
+[2018.03.16-18.57.17:103][863]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.57.17:113][863]LogInit: FAudioDevice initialized.
+[2018.03.16-18.57.17:141][863]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.57.17:141][863]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.57.17
+[2018.03.16-18.57.17:142][863]LogWorld: Bringing up level for play took: 0.000654
+[2018.03.16-18.57.17:143][863]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.862
+[2018.03.16-18.57.18:122][978]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.57.22:184][440]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn2)
+[2018.03.16-18.57.25:723][786]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.57.26:502][851]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn)
+[2018.03.16-18.57.29:237][163]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.57.29:249][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.57.29:249][163]PIE: New page: PIE session: Level01 (16 Mar 2018 20:57:29)
+[2018.03.16-18.57.29:249][163]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.57.29:253][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003546s)
+[2018.03.16-18.57.29:254][163]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.57.29:254][163]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2018.03.16-18.57.29:254][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004347s)
+[2018.03.16-18.57.29:294][163]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.57.29:304][163]LogInit: FAudioDevice initialized.
+[2018.03.16-18.57.29:331][163]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.57.29:331][163]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.57.29
+[2018.03.16-18.57.29:332][163]LogWorld: Bringing up level for play took: 0.000694
+[2018.03.16-18.57.29:333][163]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.672
+[2018.03.16-18.57.30:437][291]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.57.36:163][978]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.57.42:772][745]BlueprintLog: New page: Compile Possessable_pawn
+[2018.03.16-18.57.43:514][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.57.43:566][786]LogSavePackage: Save=49.95ms
+[2018.03.16-18.57.43:566][786]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn7F7551FC401B50E8492C43B5079D5F32.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.57.43:568][786]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.57.44:681][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.16-18.57.44:998][932]LogEditorViewport: Clicking on Actor (LMB): Possessable_pawn_C (Possessable_pawn2)
+[2018.03.16-18.57.47:378][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.16-18.57.47:422][181]LogSavePackage: Save=27.58ms
+[2018.03.16-18.57.47:422][181]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Level01182D86864B09CA98BB308B8A7B710D7D.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Maps/Level01.umap'
+[2018.03.16-18.57.47:424][181]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Maps/Level01.umap
+[2018.03.16-18.57.47:852][223]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.16-18.57.47:871][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.16-18.57.47:871][223]PIE: New page: PIE session: Level01 (16 Mar 2018 20:57:47)
+[2018.03.16-18.57.47:872][223]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2018.03.16-18.57.47:875][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003542s)
+[2018.03.16-18.57.47:875][223]LogAIModule: Creating AISystem for world Level01
+[2018.03.16-18.57.47:876][223]LogPlayLevel: PIE: World Init took: (0.000476s)
+[2018.03.16-18.57.47:876][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.004213s)
+[2018.03.16-18.57.47:915][223]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.03.16-18.57.47:925][223]LogInit: FAudioDevice initialized.
+[2018.03.16-18.57.47:952][223]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.16-18.57.47:952][223]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.03.16-19.57.47
+[2018.03.16-18.57.47:953][223]LogWorld: Bringing up level for play took: 0.000641
+[2018.03.16-18.57.47:954][223]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level01 -0.052
+[2018.03.16-18.57.49:134][357]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.57.52:759][792]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.57.55:320][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.57.55:511][122]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.57.56:112][194]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.57.58:204][445]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.57.58:378][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.57.59:204][565]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.57.59:770][633]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.58.01:846][881]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.58.02:031][903]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Not a valid pawn to possess!
+[2018.03.16-18.58.03:165][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.58.06:658][458]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Possessed a pawn!
+[2018.03.16-18.58.54:156][417]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.16-18.59.03:498][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Possessable_pawn" FILE="C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset" SILENT=true
+[2018.03.16-18.59.03:556][228]LogSavePackage: Save=52.17ms
+[2018.03.16-18.59.03:556][228]LogSavePackage: Moving 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Saved/Possessable_pawn00F9B6434F835EE2B33C7F8339FE7C25.tmp' to 'C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset'
+[2018.03.16-18.59.03:558][228]LogSavePackage: Display: Finished SavePackage C:/Users/Bendick/Documents/GitHub/GameJam01/GameJam01/Content/Possessable_pawn.uasset
+[2018.03.16-18.59.04:050][286]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.03.16-18.59.04:291][286]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.241 s
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: 
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: Stack: 
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: [Callstack] 0x0000000041592786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: [Callstack] 0x000000004133123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: [Callstack] 0x000000004134B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: [Callstack] 0x000000002C5B33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: [Callstack] 0x000000002A9703AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.03.16-18.59.04:296][286]LogOutputDevice: Error: [Callstack] 0x0000000029F83EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x0000000029E174AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x0000000029E1ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x0000000029F48225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x000000003E937397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x000000003E93CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x000000003EB79913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x000000003E993484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x000000003E96B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x000000003E95D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x000000005253E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x0000000052531A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x00000000525403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x000000005252D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x000000008245B85D USER32.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x000000008245B1EF USER32.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x0000000052541516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x00000000774050C8 UE4Editor.exe!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x0000000077415430 UE4Editor.exe!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x00000000774154AA UE4Editor.exe!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x0000000077422379 UE4Editor.exe!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x0000000077423D57 UE4Editor.exe!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x0000000082031FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: [Callstack] 0x0000000082A3EFC1 ntdll.dll!UnknownFunction []
+[2018.03.16-18.59.04:297][286]LogOutputDevice: Error: 
+[2018.03.16-18.59.04:299][286]LogStats:                SubmitErrorReport -  0.000 s
